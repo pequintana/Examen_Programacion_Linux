@@ -44,7 +44,7 @@ for nombre in nombres_archivo:
 print ("#########################################")
 print("\tARCHIVOS")
 print("##########################################")
-os.system("ls")
+os.system("ls -l")
 print("#########################################")
 #PEDRO QUINTANA 
 # SEBASTIAN CANCINO
